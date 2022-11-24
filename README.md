@@ -1,5 +1,8 @@
-# BachelorThesis
-# Abstract
+# Bachelor Thesis
+# A Comparative Analysis of Meta-heuristic Optimisation Algorithms for Vehicle Routing
+
+
+## Abstract
 
 Today’s popular "shared-economy" concept has accelerated the progress towards
 prioritising the implementation of cost-efficient strategies and promoting sustainable
